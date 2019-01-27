@@ -1,6 +1,6 @@
 <?php
 
-namespace Adildev;
+namespace Gabdul;
 
 class App
 {
